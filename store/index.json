@@ -847,4 +847,17 @@
     	"feat": "Inception",
     	"invert": true
   }
+		{
+  		"name": "Unblocked Games",
+  		"icon": "",
+  		"type": "Gaming",
+  		"data": {
+    			"type": "IFrame",
+    			"url": "https://sites.google.com/nvanm.org/unblocked-gamesss-com/home?authuser=0",
+    			"gallery": [
+      				""
+    	],
+    	"desc": "Arcade App",
+    	"feat": "",
+    	"invert": true
 }]
